@@ -1,0 +1,102 @@
+:root {
+
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    padding: 3% 10%;
+    background-color: rgb(230, 234, 240);
+}
+li {
+    list-style: none;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.web-title {
+    font-weight: 300;
+}
+.links {
+    display: flex;
+}
+.links a {
+    text-transform: uppercase;
+    color: grey;
+    padding: 10px;
+}
+.links a:hover {
+    color: mediumseagreen;
+}
+/* ----------- blogs page -------------- */
+.blog {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.blog h1 {
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 100;
+}
+.blog a {
+    color: grey;
+    font-size: .8rem;
+}
+/* ----------- compose page ------------ */
+.container h2 {
+    font-size: 2rem;
+    margin-bottom: 4%;
+}
+.blog-form {
+    display: flex;
+    flex-flow: column;
+}
+.blog-form label {
+    font-size: .9rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+#title {
+    border: none;
+    outline: none;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid black;
+    border-radius: 5px;
+}
+#content {
+    resize: none;
+    outline: none;
+    min-height: 100px;
+    height: 30vh;
+    padding: 10px;
+    border-radius: 5px;
+}
+.btn {
+    border: none;
+    height: 2rem;
+    width: 5rem;
+    color: white;
+    background-color: rgb(67, 100, 199);
+    letter-spacing: 1.5px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+footer {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+}
