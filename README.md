@@ -1,6 +1,7 @@
 Node js and ejs template blogs web application with Mongo database.
 
 Used tools: 
+  <div style={{display:"bock"}}></div>
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/ejs-%23002E5F.svg?&style=for-the-badge&logo=nfc&logoColor=white" />
