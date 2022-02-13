@@ -8,9 +8,10 @@ Used tools:
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
 First you need to create .env file and add your DB_URI from mongodb atlas.
+
 This project already have a heroku configuration file (Procfile) what will help you to deploy this website on heroku.
 
 Application specifications:
-  for run server use: nodemon app.js
-  localhost address: 4000,
+  for run server use: nodemon app.js;
+  localhost address: 4000;
   
