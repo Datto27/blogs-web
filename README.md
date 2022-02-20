@@ -16,4 +16,4 @@ Application specifications:
   localhost address: 4000;
  
 # Create new Post
-move on /compose and here will be inputs for new post
+move on /compose page and there will be inputs for new post
