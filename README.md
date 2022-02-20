@@ -14,4 +14,6 @@ This project already have a heroku configuration file (Procfile) what will help 
 Application specifications:
   for run server use: nodemon app.js;
   localhost address: 4000;
-  
+ 
+# Create new Post
+move on /compose and here will be inputs for new post
